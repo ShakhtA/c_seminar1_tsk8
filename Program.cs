@@ -19,9 +19,3 @@ else
                 i +=2;
             }
     }
-//Console.Write($"{Num} -> {i}");
-//while (i < Num + 1)
-//  {
-//        Console.Write($", {i+=2}");
-//          i +=2;
-//  }
